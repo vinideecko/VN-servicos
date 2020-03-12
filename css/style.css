@@ -1,11 +1,16 @@
 body{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color:black
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-header{
-    background-color: greenyellow;
-    font-size: 10=x;
+.header{
+    background-color: green;
+    font-size: 20px;
+    
 }
-nav{
-    display: inline;
+.header img{
+    width: 300px;
+    height: 250px;
+}
+.nav{
+    text-align: center;
+
 }
