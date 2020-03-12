@@ -1,11 +1,7 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.header{
-    color: green;
-    background: black;
-    
-}
+
 .header img{
     width: 300px;
     height: 250px;
@@ -60,4 +56,14 @@ nav ul li a{
 }
 .col12{
     width: 940px;
+}
+.menu{
+    background: aquamarine;
+    text-align: center;
+    text-decoration: none;
+    border: green solid ;
+}
+.ul li a{
+    color: green;
+}
 }
