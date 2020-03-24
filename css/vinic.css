@@ -1,0 +1,10 @@
+.linha{
+    width: 960px;
+    padding: 10px 20px;
+}
+header{
+    background-color: limegreen;
+    color: magenta;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
