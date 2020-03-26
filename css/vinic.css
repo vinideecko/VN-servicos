@@ -1,14 +1,7 @@
-body{
-    border: solid black;
-    
-}
-header{
-    width: 955px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    padding: 10px 10px;
-    margin: 10px 10px;
-    border: solid;
-    
+.linha{
+  width: 960px;
+  padding: 10px 20px;
+  margin: 10px;
 }
 nav{
   list-style: none;
@@ -17,8 +10,6 @@ nav{
 nav li{
   position: relative;
   float: left;
-  border-right: 1px solid black;
-  border-top: 1px solid black;
 }
 nav li a{
   color: black;
